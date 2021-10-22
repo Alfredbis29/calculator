@@ -75,7 +75,7 @@ border: 2px solid black;
 h2 {
     text-align: center;
         padding: 23px;
-      background-color: gray;
+      background-color: silver;
       animation-name: formanime;
       animation-duration: 4s;
     }
