@@ -55,7 +55,7 @@ input
 width: 5px;
 background-color: gray;
 color: white;
-border: 1px solid rgb(240, 180, 180);
+border: 1px solid rgb(209, 178, 178);
 	border-radius: 5px;
 	padding: 16px;
 	margin: 5px;
@@ -63,7 +63,7 @@ border: 1px solid rgb(240, 180, 180);
 }
 input:hover{
     color:seagreen;
-    background-color:rgb(223, 163, 172);
+    background-color:rgb(19, 17, 17);
 }
 .calcule {
 width: 260px;
