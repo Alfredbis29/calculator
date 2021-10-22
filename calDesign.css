@@ -13,7 +13,7 @@ h1 {
       animation-duration: 5s;
     }
     @keyframes headeranim{
-      0%   {background-color: rgb(100, 78, 78);}
+      0%   {background-color: rgb(211, 151, 151);}
       25%  {background-color: rgb(99, 99, 71);}
       50%  {background-color: rgb(69, 69, 156);}
       100% {background-color: rgb(0, 14, 0);}
