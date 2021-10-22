@@ -62,7 +62,7 @@ border: 1px solid rgb(209, 178, 178);
 	font-size: 15px;
 }
 input:hover{
-    color:seagreen;
+    color:rgb(2, 12, 7);
     background-color:rgba(12, 5, 5, 0.082);
 }
 .calcule {
