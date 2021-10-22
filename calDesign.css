@@ -10,7 +10,7 @@ h1 {
         padding: 23px;
       background-color: gray;
       animation-name: headeranim;
-      animation-duration: 4s;
+      animation-duration: 5s;
     }
     @keyframes headeranim{
       0%   {background-color: rgb(100, 78, 78);}
