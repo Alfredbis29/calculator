@@ -2,17 +2,17 @@
 //function for displaying values
 function dis(val)
 {
-document.getElementById("atho").value += val & nbsp; 
+document.getElementById("doc").value += val & nbsp; 
 }
 //function for evaluation
 function solve()
 {
-let x = document.getElementById("atho").value
+let x = document.getElementById("doc").value
 let y = eval(x)
-document.getElementById("atho").value = y
+document.getElementById("doc").value = y
 }
 //function for clearing the display
 function clr()
 {
-document.getElementById("atho").value = ""
+document.getElementById("doc").value = ""
 }
